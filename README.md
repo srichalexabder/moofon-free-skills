@@ -11,6 +11,7 @@
 | [humanizer-zh-tw-pro](skills/humanizer-zh-tw-pro/SKILL.md) | 把 AI 味重的繁中文章改成像人寫的：去樣板句、去排比、留口語節奏 |
 | [headline-hooks-zh-tw](skills/headline-hooks-zh-tw/SKILL.md) | 幫文章、貼文、影片想標題：8 種標題類型＋三問檢查法 |
 | [de-ai-checklist-zh-tw](skills/de-ai-checklist-zh-tw/SKILL.md) | 30 秒速查一份繁中文字的 AI 味：10 項勾選清單＋朗讀測試法 |
+| [skill-audit-zh-tw](skills/skill-audit-zh-tw/SKILL.md) | 審查任何一個 SKILL.md：對照 7 條品質標準逐項檢查，輸出通過／不通過與修正建議 |
 
 另外附 [30 組改前／改後對照範例](examples/before-after-30.md)：每一組都是一段 AI 味原文、一段改後版本，外加一句話說明改了什麼。對照著學最快。
 
@@ -29,7 +30,7 @@ Claude Code、Codex、Cursor 都能用：
 |  | Free 免費 | 單買 Single | Personal 訂閱 | 買斷 Lifetime |
 |---|---|---|---|---|
 | 價格 | $0 | US$5 一次 | US$10/月 | US$169 一次付清 |
-| 免費 skill | 3 個 | 3 個 | 3 個 | 3 個 |
+| 免費 skill | 4 個 | 4 個 | 4 個 | 4 個 |
 | 付費 skill（17+） | — | 任選 1 個，永久使用 | 全部，每月再加 1-2 個 | 全部，未來的新 skill 也包含 |
 | 交付方式 | 直接下載 | Email 交付 | Email 交付 | Email 交付 |
 | 退款 | — | 14 天內未下載／未使用可全額退款 | 14 天內未下載／未使用可全額退款 | 14 天內未下載／未使用可全額退款 |
