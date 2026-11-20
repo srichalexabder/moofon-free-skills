@@ -71,6 +71,7 @@ Free Traditional Chinese AI agent skills for Claude Code, Codex and Cursor. No s
 - **humanizer-zh-tw-pro**: rewrite AI-sounding Traditional Chinese into natural, human writing.
 - **headline-hooks-zh-tw**: 8 headline patterns for articles, posts and videos.
 - **de-ai-checklist-zh-tw**: a 30-second checklist to spot AI-sounding text.
+- **skill-audit-zh-tw**: audit any SKILL.md against 7 quality checks, with pass/fail and concrete fixes.
 - **30 before/after examples**: side-by-side rewrites with one-line notes on what changed.
 
 The full pack (17+ skills, 1-2 new skills monthly) is [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills): Single Skill US$5, Personal US$10/month, Lifetime US$169 one-time. Order by email: moofongroup@gmail.com.
