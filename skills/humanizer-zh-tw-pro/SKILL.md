@@ -6,7 +6,7 @@ description: 把 AI 味重的繁體中文文章，改成像人寫的。去樣板
 # humanizer-zh-tw-pro（免費完整版）
 
 > 免費版，來自 [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)。
-> 完整版在 Personal 訂閱內，另有 16 個繁中 skill，每月新增 1-2 個。
+> 完整版在 Personal 訂閱內，另有 18 個繁中 skill，每月新增 1-2 個。
 
 ## 這個 skill 幫你做什麼
 
@@ -99,7 +99,7 @@ description: 把 AI 味重的繁體中文文章，改成像人寫的。去樣板
 
 ## 完整版在哪裡
 
-這個免費版是 humanizer-zh-tw-pro 的完整功能。完整版訂閱（Personal US$10/月）另外包含 16 個繁中 skill、每月 1-2 個新 skill、既有 skill 更新：
+這個免費版是 humanizer-zh-tw-pro 的完整功能。完整版訂閱（Personal US$10/月）另外包含 18 個繁中 skill、每月 1-2 個新 skill、既有 skill 更新：
 
 - [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)
 - 單買一個 skill US$5，買斷全部 US$169，詳見官網定價。

@@ -6,7 +6,7 @@ description: 30 秒速查一份繁中文字的 AI 味。10 項勾選清單，分
 # de-ai-checklist-zh-tw（免費版）
 
 > 免費版，來自 [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)。
-> 完整版在 Personal 訂閱內，另有 16 個繁中 skill，每月新增 1-2 個。
+> 完整版在 Personal 訂閱內，另有 18 個繁中 skill，每月新增 1-2 個。
 
 ## 這個 skill 幫你做什麼
 
@@ -67,7 +67,7 @@ description: 30 秒速查一份繁中文字的 AI 味。10 項勾選清單，分
 
 ## 完整版在哪裡
 
-這個免費版是 de-ai-checklist-zh-tw 的完整功能。完整版訂閱（Personal US$10/月）另外包含 16 個繁中 skill、每月 1-2 個新 skill、既有 skill 更新：
+這個免費版是 de-ai-checklist-zh-tw 的完整功能。完整版訂閱（Personal US$10/月）另外包含 18 個繁中 skill、每月 1-2 個新 skill、既有 skill 更新：
 
 - [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)
 - 單買一個 skill US$5，買斷全部 US$169，詳見官網定價。

@@ -2,7 +2,7 @@
 
 繁體中文 AI Agent skills，免費拿去用。不用留信箱，不用註冊。
 
-> 這是免費版。完整版是 [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)：17+ 個繁中 skill，每月新增 1-2 個。
+> 這是免費版。完整版是 [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills)：19+ 個繁中 skill，每月新增 1-2 個。
 
 ## 裡面有什麼
 
@@ -31,7 +31,7 @@ Claude Code、Codex、Cursor 都能用：
 |---|---|---|---|---|
 | 價格 | $0 | US$5 一次 | US$10/月 | US$169 一次付清 |
 | 免費 skill | 4 個 | 4 個 | 4 個 | 4 個 |
-| 付費 skill（17+） | — | 任選 1 個，永久使用 | 全部，每月再加 1-2 個 | 全部，未來的新 skill 也包含 |
+| 付費 skill（19+） | — | 任選 1 個，永久使用 | 全部，每月再加 1-2 個 | 全部，未來的新 skill 也包含 |
 | 交付方式 | 直接下載 | Email 交付 | Email 交付 | Email 交付 |
 | 退款 | — | 14 天內未下載／未使用可全額退款 | 14 天內未下載／未使用可全額退款 | 14 天內未下載／未使用可全額退款 |
 
@@ -46,11 +46,11 @@ Claude Code、Codex、Cursor 都能用：
 3. 我們回信跟你確認金額與付款方式：台灣客人用銀行轉帳，海外客人用 PayPal。
 4. 確認收款後 1 個工作天內，skill 檔案用 Email 寄給你。
 
-單買跟買斷差在哪？單買是任選 1 個 skill 永久使用；買斷是一次付清，現在的 17+ 個全部給你，以後出的新 skill 也都包含，永久有效。
+單買跟買斷差在哪？單買是任選 1 個 skill 永久使用；買斷是一次付清，現在的 19+ 個全部給你，以後出的新 skill 也都包含，永久有效。
 
 ## 為什麼免費
 
-這個倉庫是我們的流量磁鐵：先給真的有用的東西，再讓需要更多的人訂閱完整版。免費版是完整功能，不是試用閹割版。完整版多的是數量（17+ 個 skill）與持續更新（每月 1-2 個新 skill）。
+這個倉庫是我們的流量磁鐵：先給真的有用的東西，再讓需要更多的人訂閱完整版。免費版是完整功能，不是試用閹割版。完整版多的是數量（19+ 個 skill）與持續更新（每月 1-2 個新 skill）。
 
 ## 授權
 
@@ -74,6 +74,6 @@ Free Traditional Chinese AI agent skills for Claude Code, Codex and Cursor. No s
 - **skill-audit-zh-tw**: audit any SKILL.md against 7 quality checks, with pass/fail and concrete fixes.
 - **30 before/after examples**: side-by-side rewrites with one-line notes on what changed.
 
-The full pack (17+ skills, 1-2 new skills monthly) is [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills): Single Skill US$5, Personal US$10/month, Lifetime US$169 one-time. Order by email: moofongroup@gmail.com.
+The full pack (19+ skills, 1-2 new skills monthly) is [Moofon Plugin Pack](https://cc.moofon.net/?utm_source=github&utm_medium=opensource&utm_campaign=free-skills): Single Skill US$5, Personal US$10/month, Lifetime US$169 one-time. Order by email: moofongroup@gmail.com.
 
 MIT licensed. See [LICENSE](LICENSE).
